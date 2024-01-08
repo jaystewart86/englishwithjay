@@ -8,6 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
+title: "Online English classes!"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
@@ -32,7 +33,7 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
@@ -45,4 +46,4 @@ feature_row:
     Cal.ns["10min"]("floatingButton", {"calLink":"englishwithjay/10min"});
     Cal.ns["10min"]("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false,"layout":"month_view"});
     </script>
-    <!-- Cal floating-popup embed code ends -->
+<!-- Cal floating-popup embed code ends -->
