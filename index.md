@@ -12,27 +12,27 @@ title: "Online English lessons!"
 excerpt: >
   Elevate your English skills with my personalized and engaging Online English Lessons, designed to meet your unique learning needs! 🌐📚🚀
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  - image_path: /assets/images/englishwithjay/flag.png
+    alt: "British English"
+    title: "British English"
+    excerpt: "Acquiring proficiency in British English can offer practical benefits by improving international communication, as it is widely used in business, academia, and various professional settings worldwide."
+    # url: "/docs/configuration/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
+  - image_path: /assets/images/englishwithjay/me.jpg
+    alt: "One-to-one"
+    title: "One-to-one"
+    excerpt: "Learning one-to-one offers personalized attention and targeted feedback, fostering a more efficient and customized educational experience that addresses individual learning styles and accelerates language proficiency."
+    # url: "/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
+  - image_path: /assets/images/englishwithjay/tailored.png
+    alt: "Tailored Lessons"
+    title: "Tailored Lessons"
+    excerpt: "Learning English tailored to your interests enhances engagement and makes the language acquisition process more enjoyable, fostering a deeper connection with the language and facilitating effective communication in areas that personally matter to you."
+    # url: "/docs/layouts/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
 ---
 
 {% include feature_row %}
