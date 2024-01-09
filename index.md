@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/englishwithjay/earth.png
+  overlay_image: /assets/images/englishwithjay/earth3.png
   actions:
     - label: "<i class='fas fa-calendar'></i> Book now"
       url: "/book"
