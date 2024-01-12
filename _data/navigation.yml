@@ -12,5 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Book"
     url: /book/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "Samples"
+    url: /samples/
+  - title: "Terms & Conditions"
     url: /terms/
